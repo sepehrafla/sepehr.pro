@@ -6,7 +6,7 @@ export class Photo extends React.Component {
   render () {
     return (
       <MaterialCard className={styles.wrapper} >
-        <img className={css(styles.img)} src='Assets/Img/AboutMe/JonathanHeadshot.jpg' alt='Headshot' />
+        <img className={css(styles.img)} src='Assets/Img/AboutMe/sepehr_face.png' alt='Headshot' />
       </MaterialCard>
     );
   }
