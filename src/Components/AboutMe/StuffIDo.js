@@ -9,7 +9,7 @@ export class StuffIDo extends React.Component {
         <div className={css(styles.title)}>Check out some of the stuff I do!</div>
         <div className={css(styles.buttonWrapper)}>
           <TextButton className={styles.button} text='LinkedIn' href='https://www.linkedin.com/in/saflatounian/' color='#fff' hoverColor='#ffd377' />
-          <TextButton className={styles.button} text='Music' href='https://open.spotify.com/user/jspsun' color='#fff' hoverColor='#ffd377' />
+          <TextButton className={styles.button} text='Music' href='https://open.spotify.com/user/k7gbc80d4ai8wamdy60oupon7?si=GjAS09hcThqSHy7jENyCCA' color='#fff' hoverColor='#ffd377' />
           <TextButton className={styles.button} text='Hackathons' href='https://devpost.com/sepehrafla' color='#fff' hoverColor='#ffd377' />
         </div>
       </div>

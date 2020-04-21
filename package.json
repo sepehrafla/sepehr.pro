@@ -1,5 +1,6 @@
 {
   "name": "SepehrAflatounian",
+  "homepage" : "https://sepehr.info",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
